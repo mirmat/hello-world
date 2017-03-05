@@ -21,5 +21,5 @@ export default {
 		} )
 	],
 	banner,
-	dest: `dist/${packageInfo.name}.js`
+	dest: `dist/hello-world.js`
 };

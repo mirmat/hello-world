@@ -4,6 +4,6 @@ const packageInfo = require( '../../package.json' );
 
 config.format = 'umd',
 config.moduleName = 'bemquery';
-config.dest = `dist/${packageInfo.name}.umd.js`;
+config.dest = `dist/hello-world.umd.js`;
 
 export default config;

@@ -18,6 +18,6 @@ config.plugins.push( uglify( {
 	}
 } ) );
 
-config.dest = `dist/${packageInfo.name}.es5.js`;
+config.dest = `dist/hello-world.es5.js`;
 
 export default config;
